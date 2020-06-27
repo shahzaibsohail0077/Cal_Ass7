@@ -1,0 +1,41 @@
+.main{
+    margin: 0 auto;
+    width: 450px;
+    height: auto;
+    border: 4px solid black;
+    background-color: #f6f6f6;
+
+}
+.screen{
+    width: 98%;
+    height: 30px;
+    border: 2px solid gray;
+    background-color: black;
+    color: #fff; 
+    font-weight: 900;
+}
+.clear{
+    background-color: chocolate;
+    width: 24%;
+    color: #fff;
+    font-weight: 900;
+    height: 30px;
+    margin-top: 5px;
+}
+.oparators{
+    margin-top: 5px;
+    height: 30px;
+    width: 24%;
+    color: #fff;
+    font-weight: 900;
+    background-color: darkblue;
+}
+.btn{
+    margin-top: 5px;
+    height: 30px;
+    width: 24%;
+    color: black;
+    font-weight: 900;
+    background-color: #fff;
+    
+}
